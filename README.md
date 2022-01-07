@@ -1,4 +1,6 @@
-### Hi there 👋
+### de Fluistervloot public development repo
+
+Github repo to support development of  [de Fluistervloot](https://defluistervloot.nl).
 
 <!--
 **de-fluistervloot/de-fluistervloot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
